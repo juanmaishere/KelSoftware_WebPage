@@ -4,7 +4,7 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
+      <Title>KelSoftware</Title>
       <h1>KelSoftware</h1>
       <Counter />
       <p>
@@ -14,6 +14,7 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
+      
     </main>
   );
 }
