@@ -6,13 +6,10 @@ export default function Home() {
     <main>
       <Title>KelSoftware</Title>
       <h1>KelSoftware</h1>
-      <Counter />
+       <h2>Soluciones de software a la medida
+            Desarollo de Web y Apps</h2>
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
+        D
       </p>
       
     </main>
