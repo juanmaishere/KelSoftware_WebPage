@@ -1,10 +1,12 @@
 body {
   font-family: Gordita, Roboto, Oxygen, Ubuntu, Cantarell,
     'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #342e37;
 }
 
 a {
   margin-right: 1rem;
+  color: #e3e4db;
 }
 
 main {
@@ -14,7 +16,8 @@ main {
 }
 
 h1 {
-  color: #335d92;
+  text-align: start;
+  color: #e3e4db;
   text-transform: uppercase;
   font-size: 4rem;
   font-weight: 100;
