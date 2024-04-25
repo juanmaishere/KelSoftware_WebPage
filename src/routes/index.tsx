@@ -4,15 +4,17 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <section>
       <Title>KelSoftware</Title>
+      <section class="introsection">
+      <div>
       <h1>KelSoftware</h1>
        <h2>Soluciones de software a la medida
             Desarollo de Web y Apps</h2>
+        </div>
         </section>
-      <p>
-        Dddddddddddddddd
-      </p>
+      <section class="secondsection">
+
+      </section>
       
     </main>
   );

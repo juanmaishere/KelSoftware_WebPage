@@ -18,7 +18,7 @@ export default function Root() {
   return (
     <Html lang="en">
       <Head>
-        <Title>SolidStart - Bare</Title>
+        <Title>KelSoftware</Title>
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
@@ -26,9 +26,9 @@ export default function Root() {
         <Suspense>
           <ErrorBoundary>
             <A href="/">Home</A>
-            <A href="/about">Solutions</A>
-            <A href="/about">Our Portfolio</A>
-            <A href="/about">About us</A>
+            <A href="/">Solutions</A>
+            <A href="/">Our Portfolio</A>
+            <A href="/">About us</A>
             <Routes>
               <FileRoutes />
             </Routes>
