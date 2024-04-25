@@ -15,8 +15,10 @@ main {
   margin: 0 auto;
 }
 .secondsection {
-  padding: 100%;
   background-color: aliceblue;
+  width: 100%;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
 }
 h1 {
   text-align: start;
